@@ -36,5 +36,3 @@ JChunker is licensed under BSD. Please see the LICENSE file for more information
 JChunker by default uses the LIBSVM (version 3.1) library which is licensed under BSD. For more information on LIBSVM, please see:
 
 http://www.csie.ntu.edu.tw/~cjlin/libsvm/
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/echo8/jchunker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
